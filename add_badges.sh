@@ -18,7 +18,7 @@ cat >> README.md << EOM
 [![Build Status of the package by Hackage](https://matrix.hackage.haskell.org/api/v2/packages/$pn/badge)](https://matrix.hackage.haskell.org/#/package/$pn)
 [![Hackage version badge](https://img.shields.io/hackage/v/$pn.svg)](https://hackage.haskell.org/package/$pn)
 
-## `$pn` is ??? *safe* Haskell
+## \`$pn\` is ??? *safe* Haskell
 
 ???
 
@@ -28,6 +28,6 @@ You can contribute by making a pull request on the [*GitHub
 repository*](https://github.com/$un/$pn).
 
 You can contact the package maintainer by sending a mail to
-[`$em`](mailto:$em).
+[\`$em\`](mailto:$em).
 
 EOM
